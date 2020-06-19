@@ -1,0 +1,12 @@
+.ipynb*
+__pycache__
+*.csv
+*.ipynb
+venv/*
+dist
+*.egg-info
+build
+.vscode
+.DS_Store
+data
+reference/*
