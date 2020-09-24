@@ -4,12 +4,11 @@
 
 <h2 align="center"><strong>Purpose of these Roadmaps</strong></h2>
 
-> 本篇的主要目的是为了帮助初学者转型数据科学的时候少走一些弯路。在我国汽车行业不景气的当下，一个工程师如果有足够的跨行业技能才是让自己心安的。即使对于汽车行业来说，在新兴部门往往也是发展最快、机会最好的。尤其是对于年轻人来说，我个人的经验是在一个行业呆的越久，就越不容易离开。希望大家如果考虑清楚了，就果敢的行动。[这里](https://zhuanlan.zhihu.com/p/147059633)是我在知乎上的详细转行经验分享。由于我也是刚刚离开，希望更多大佬能参与进来。
+> 本篇的主要目的是为了帮助初学者转型数据科学的时候少走一些弯路。在我国汽车行业不景气的当下，一个工程师如果有足够的跨行业技能相比更能让自己心安。即使对于汽车行业来说，在新兴部门往往也是发展最快、机会最好的。尤其是对于年轻人来说，我个人的经验是在一个行业呆的越久，就越不容易离开。希望大家如果考虑清楚了，就果敢的行动。[这里](https://zhuanlan.zhihu.com/p/147059633)是我在知乎上的详细转行经验分享。由于我也是刚刚离开，希望更多大佬能参与进来。
 > 
 > 自己经历了一段艰难的转行，我希望能将数据知识分享给更多的年轻从业者。同时，这样也有利于巩固自己的知识。<br>
-你可以继续关注我的公众号：YueTan，免费知识星球：AutoData <br>
+你可以继续关注我的公众号：YueTan
 <img src="./assets/public_account.jpg" height="200">
-<img src="./assets/knowledge.png" height="200">
 
 <h2 align="center"><strong>Note to Beginners</strong></h2>
   
@@ -48,7 +47,7 @@
 ### 视频公开课
 - [数据结构cs61 B]()
 - [算法 MIT]()
-- [算法 Prinst]()
+- [算法 Prinston]()
 - [计算机系统 CMU]()
 - [分布式系统 MIT]()
 - [机器学习 cs229]()
@@ -78,7 +77,7 @@
 - []()
 
 #### 大数据
-- [Smart-Meter-Example]https://github.com/LenzDu/Smart-Meter)
+- [Smart-Meter-Example](https://github.com/LenzDu/Smart-Meter)
 
 #### 系统
 - []()
